@@ -13,6 +13,7 @@ This repository is based on the work done by Brandon in this [link](https://www.
 │   └── reviews.py 
 ├── utils
 │   ├── init.py 
+│   ├── data_classes.py
 │   ├── data_utils.py
 │   └── scraper_utils.py 
 ├── config.py 
