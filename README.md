@@ -46,7 +46,11 @@ source .venv/bin/activate
 python -m pip install ipykernel -U --force-reinstall
 ```
 
-5. Create an API key from [Groq](https://console.groq.com/keys) and place it in the .env file.
+5. Create an API key from [Groq](https://console.groq.com/keys) and set it up as an environment variable:
+```bash
+export GROQ_API_KEY="your_actual_api_key_here"
+```
+You could also create .env folder and place you API key there. 
 
 6. Run the notebook file ```main.ipynb```.
 
