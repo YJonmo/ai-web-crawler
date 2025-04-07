@@ -42,9 +42,9 @@ python -m pip install ipykernel -U --force-reinstall
 
 4. Create an API key from [Groq](https://console.groq.com/keys) and place it in the .env file.
 
-5. Run the notebook file main.ipynb
+5. Run the notebook file ```main.ipynb```.
 
-If you want to change the website you need to read, then change the content of the config file accordingly. 
+If you want to change the website you need to read, then change the content of the ```config.py``` file accordingly. 
 
 
 ## Sample outputs after running the jupyter file
