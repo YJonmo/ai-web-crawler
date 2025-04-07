@@ -63,11 +63,11 @@ If you want to change the website you need to read, then change the content of t
   <tr>
     <td>
       <p>Quantity </p>
-      <img src="./assets/quantity.png" alt="Quantity" width="380" height="250">
+      <img src="./assets/quantity.png" alt="Quantity" width="380" height="350">
     </td>
     <td>
       <p>Number of reviews</p>
-      <img src="./assets/reviews.png" alt="Number of reviews" width="350" height="250">
+      <img src="./assets/reviews.png" alt="Number of reviews" width="380" height="350">
     </td>
   </tr>
 </table>
