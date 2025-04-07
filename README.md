@@ -34,15 +34,20 @@ pip install uv
 uv run install
 ```
 
-3. Run the following command to be able to run the jupyter notebook in vscode: 
+3. Activate the virtual environment:
+```bash
+source .venv/bin/activate
+```
+
+4. Run the following command to be able to run the jupyter notebook in vscode: 
 
 ```bash
 python -m pip install ipykernel -U --force-reinstall
 ```
 
-4. Create an API key from [Groq](https://console.groq.com/keys) and place it in the .env file.
+5. Create an API key from [Groq](https://console.groq.com/keys) and place it in the .env file.
 
-5. Run the notebook file ```main.ipynb```.
+6. Run the notebook file ```main.ipynb```.
 
 If you want to change the website you need to read, then change the content of the ```config.py``` file accordingly. 
 
