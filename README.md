@@ -50,7 +50,7 @@ python -m pip install ipykernel -U --force-reinstall
 ```bash
 export GROQ_API_KEY="your_actual_api_key_here"
 ```
-You could also create .env folder and place you API key there. 
+You could also create .env file and place you API key there. 
 
 6. Run the notebook file ```main.ipynb```.
 
