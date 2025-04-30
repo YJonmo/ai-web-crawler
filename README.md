@@ -1,6 +1,6 @@
 ## Using DeepSeek to crawl Bunnings website
 
-In this repository, the DeepSeek LLM was used to collect information about ceiling lights from the Bunnings website and create a catalog from it. For every item found in the website, the price, title, and number of reviews were collected. 
+In this repository, the DeepSeek LLM was used to collect information about ceiling lights from the Bunnings website and create a catalogue from it. For every item found in the website, the price, title, and number of reviews were collected. 
 
 This repository is based on the work done by Brandon in this [link](https://www.youtube.com/watch?v=Osl4NgAXvRk). 
 
